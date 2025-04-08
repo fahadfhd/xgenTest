@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909479148782",
+    "project_id": "xgentest-d2aec",
+    "storage_bucket": "xgentest-d2aec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909479148782:android:5a16d9535bbc950091c7ff",
+        "android_client_info": {
+          "package_name": "com.example.xgentest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfvUy7LLX9ZuxT3GoeV4K4cK8wv1T1xh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
